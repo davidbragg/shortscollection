@@ -7,7 +7,7 @@ Genre: Drama
 Length: 5 Pages
 Draft: July 2nd, 2019
 Cast: 1 
-		Wash (male - 40s)
+	Wash (male - 40s)
 ````
 
 ## Screenplay Files
