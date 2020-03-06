@@ -8,6 +8,5 @@ This is a collection of some of my short screenplays. All screenplays in this re
 
 ## Branches
 
-`master` contains only projects at completed draft
-`up` contains projects that are currently being added or drafts in progress
-
+* `master` contains only projects at completed draft
+* `up` contains projects that are currently being added or drafts in progress
