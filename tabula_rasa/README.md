@@ -14,7 +14,7 @@ Cast: 1
 ## Screenplay Files
 
 * [.fountain](./tabula_rasa.fountain)
-* [.pdf](.tabula_rasa.pdf)
+* [.pdf](./tabula_rasa.pdf)
 
 ## Short Synopsis
 
