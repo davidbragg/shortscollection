@@ -1,6 +1,6 @@
 # Short Screenplay Collection
 
-This is a collection of some of my short screenplays. All screenplays in this repo are available under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This is a collection of some of the short screenplays I have written. All of the screenplays in this repo are available under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
 ## Projects
 
@@ -8,6 +8,7 @@ This is a collection of some of my short screenplays. All screenplays in this re
 | --- | --- | ---- |
 | [Bad Kitty](./bad_kitty/README.md)| 8 pages | horror / comedy |
 | [Mommy, There's A Monster In My Closet](./mommy_monster/README.md) | 3 pages | horror  |
+| [No Overnight Parking](./no_overnight_parking/README.md) | 8 pages | horror |
 | [Tabula Rasa](./tabula_rasa/README.md) | 5 pages | drama |
 
 ## History and Rationale
