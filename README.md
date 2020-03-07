@@ -4,8 +4,10 @@ This is a collection of some of my short screenplays. All screenplays in this re
 
 ## Projects
 
-* [Bad Kitty (2019)](./bad_kitty/README.md) - 9 pages [horror/comedy]
-* [Tabula Rasa (2019)](./tabula_rasa/README.md) - 5 pages [drama]
+| title |  length | genre |
+| --- | --- | ---- |
+| [Bad Kitty](./bad_kitty/README.md)| 8 pages | horror/comedy |
+| [Tabula Rasa](./tabula_rasa/README.md) | 5 pages | drama |
 
 ## History and Rationale
 
