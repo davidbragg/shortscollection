@@ -6,7 +6,8 @@ This is a collection of some of my short screenplays. All screenplays in this re
 
 | title |  length | genre |
 | --- | --- | ---- |
-| [Bad Kitty](./bad_kitty/README.md)| 8 pages | horror/comedy |
+| [Bad Kitty](./bad_kitty/README.md)| 8 pages | horror / comedy |
+| [Mommy, There's A Monster In My Closet](./mommy_monster/README.md) | 3 pages | horror  |
 | [Tabula Rasa](./tabula_rasa/README.md) | 5 pages | drama |
 
 ## History and Rationale
