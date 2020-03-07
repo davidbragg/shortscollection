@@ -6,13 +6,11 @@
 Genre: Drama
 Length: 5 Pages
 Draft: July 2nd, 2019
-Cast: 1 
+Cast:
+	* Wash (male - 40s)
 
-	Wash (male - 40s)
-
-Locations: 1
-
-	Basement Apartment - Interior
+Locations:
+	* Basement Apartment - Interior
 ````
 
 ## Screenplay Files

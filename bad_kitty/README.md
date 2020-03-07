@@ -6,16 +6,14 @@
 Genre: Horror Comedy
 Length: 8 Pages
 Draft: September 12, 2019
-Cast: 4
+Cast:
+	* Lora (female - late teens / early 20s)
+	* Fernando (male - 20s/40s)
+	* Bill (male - early 20s)
+	* Victim (undefined)
 
-	Lora (female - late teens / early 20s)
-	Fernando (male - 20s/40s)
-	Bill (male - early 20s)
-	Victim (undefined)
-
-Locations: 2
-
-	suburban middle class house (x2 - interior and exterior)
+Locations:
+	* suburban middle class house (x2 - interior and exterior)
 ````
 
 ## Screenplay Files
