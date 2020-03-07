@@ -9,6 +9,10 @@ Draft: July 2nd, 2019
 Cast: 1 
 
 	Wash (male - 40s)
+
+Locations: 1
+
+	Basement Apartment - Interior
 ````
 
 ## Screenplay Files

@@ -6,6 +6,7 @@ As all screenplays within this repo are CC BY the only restriction for use is th
  
 ## Projects
 
+* [Bad Kitty (2019)](./bad_kitty/README.md) - 9 pages [horror/comedy]
 * [Tabula Rasa (2019)](./tabula_rasa/README.md) - 5 pages [drama]
 
 ## Branches
