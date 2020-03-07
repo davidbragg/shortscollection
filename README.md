@@ -13,9 +13,11 @@ I've been writing screenplays on and off since 1993. During that time I've writt
 
 This means that I have dozens of scripts for short films that I am almost certain to never do anything with. I don't wish to pursue them with other filmmakers and I have zero interest in the competition circuit. I also have no desire to simply let them collect dust on a hard drive.
 
-This is a collection of my stronger scripts. They've been posted to this repository to offer them for free to anyone who would like to use them. Under the Creative Commons Attribution license the only thing creators building of this work are required to do is provide attribution back to me as the original creator.
+This is a collection of my stronger scripts. They've been posted to this repository to offer them for free to anyone who would like to use them. Under the Creative Commons Attribution license the only thing creators building off these works are required to do is provide attribution back to me as the original creator.
 
-That could be anything. Produce it as a short film, use it as the basis for an extended feature, or adapt it to another medium. All of these are perfectly valid. If you can figure out way to moneitze, have at i .
+The _how_ you build off of it could be anything.
+
+Produce it as a short film, use it as the basis for a feature, or adapt it to another medium. All of these are perfectly valid. If you can figure out way to monetize your work, have at it. There's nothing stopping you from doing so.
 
 You are required by the license to provide attribution. If you could drop me an email and let me know you've used it that would be great. A link to where I could see how you've built on my work would be ever better.
 
