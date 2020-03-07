@@ -16,11 +16,12 @@ Locations:
 	* suburban middle class house (x2 - interior and exterior)
 ````
 
+## Logline
+
+A University student, unexpectedly home alone, must contend with her parent's troublesome cat while unaware a crazed murderer stalking the area has zeroed in on her as his next victim.
+
 ## Screenplay Files
 
 * [.fountain](./bad_kitty.fountain)
 * [.pdf](./bad_kitty.pdf)
 
-## Logline
-
-A University student, unexpectedly home alone, must contend with her parent's troublesome cat while unaware a crazed murderer stalking the area has zeroed in on her as his next victim.
