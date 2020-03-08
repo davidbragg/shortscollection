@@ -2,7 +2,7 @@
 
 ## Short Synopsis
 
-A software developer working alone in the office late one night investigates a suspicious noise elsewhere in the office. As she closes in the noises she realizes that might just be chasing her own tail.
+A software developer working alone in the office late one night investigates a suspicious noise elsewhere in the office. As she closes in on the noises she realizes that might just be chasing her own tail.
 
 ## Script Details
 
