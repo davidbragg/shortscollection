@@ -11,6 +11,7 @@ This is a collection of some of the short screenplays I have written. All of the
 | [No Overnight Parking](./no_overnight_parking/README.md) | 8 pages | horror |
 | [Perpetual](./perpetual/README.md) | 5 pages | drama / sci-fi |
 | [Tabula Rasa](./tabula_rasa/README.md) | 5 pages | drama |
+| [Thorium Blue](./thorium_blue/README.md) | 7 pages | drama / sci-fi |
 
 ## History and Rationale
 
@@ -22,13 +23,13 @@ This is a collection of my stronger scripts. They've been posted to this reposit
 
 The _how_ you build off of it could be anything.
 
-Produce it as a short film, use it as the basis for a feature, or adapt it to another medium. All of these are perfectly valid. If you can figure out way to monetize your work, have at it. There's nothing stopping you from doing so.
+Produce it as a short film, use it as the basis for a feature, or adapt it to another medium. All of these are perfectly valid. If you can figure out way to monetize your work, have at it. There's nothing stopping you from doing so and you don't owe me anything if you can.
 
-You are required by the license to provide attribution. If you could drop me an email and let me know you've used it that would be great. A link to where I could see how you've built on my work would be ever better.
+You are required by the license to provide attribution. If you could drop me an email and let me know you've used it that would be great. A link to where I could see how you've built on my work would be even better.
 
 ## Branches
 
-* `master` contains only projects at completed draft
+* `main` contains only projects at completed draft
 * `up` contains projects that are currently being added or drafts in progress
 
 ## All The Things
@@ -36,5 +37,3 @@ You are required by the license to provide attribution. If you could drop me an 
 * email: dave@heavyliftingindustries.com
 * twitter: [@heavyliftingind](https://www.twitter.com/heavyliftingind)
 * instragram: [@heavyliftingindustries](https://www.instagram.com/heavyliftingindustries)
-* twitch: [@heavyliftingindustries](https://www.twitch.tv/heavyliftingindustries)
-
