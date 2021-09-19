@@ -29,4 +29,3 @@ Locations:
 
 * [.fountain](./thorium_blue.fountain)
 * [.pdf](./thorium_blue.pdf)
-
