@@ -36,4 +36,4 @@ You are required by the license to provide attribution. If you could drop me an 
 
 * email: dave@heavyliftingindustries.com
 * twitter: [@heavyliftingind](https://www.twitter.com/heavyliftingind)
-* instragram: [@heavyliftingindustries](https://www.instagram.com/heavyliftingindustries)
+* instagram: [@heavyliftingindustries](https://www.instagram.com/heavyliftingindustries)
