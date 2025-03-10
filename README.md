@@ -35,6 +35,6 @@ You are required by the license to provide attribution. If you could drop me an 
 ## All The Things
 
 * email: dave@heavyliftingindustries.com
-* mastodon: [@davidbragg@screenwriting.space](https://screenwriting.space/@davidbragg)
-* twitter: [@davidfbragg](https://www.twitter.com/davidfbragg)
+* mastodon: [@davidbragg@tech.lgbt](https://tech.lgbt/davidbragg)
+* twitter: lul, nope
 * instagram: [@heavyliftingindustries](https://www.instagram.com/heavyliftingindustries)
